@@ -3,8 +3,18 @@
   "author": {
     "name": "Felipe Vasconcelos"
   },
+
+  "description": "Um projeto sobre evoluir e voltar a trabalhar",
+
+  "keywords": [ "Estagio", "Estudo", "freecodecamp" ],
+
+  "license": "MIT",
+
+  "version": "0.0.1",
+
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.2.13"
   },
   "main": "server.js",
   "scripts": {
